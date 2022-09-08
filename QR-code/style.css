@@ -8,18 +8,20 @@
     text-decoration: none;
 }
 
-body{
+body {
+    min-height: 100vh;
     background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-.card{
+.card {
     display: flex;
     flex-direction: column;
     border-radius: 10px;
     width: 260px;
     height: 410px;
-    margin: auto auto;
     background-color: white;
-    margin-top: 5em ;
     padding: 13px;
     text-align: center;
 }
