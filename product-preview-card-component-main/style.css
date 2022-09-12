@@ -14,6 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(30, 38%, 92%);
+    
 }
 
 .card{
@@ -33,26 +34,31 @@ body {
 .text{
     display: flex;
     flex-direction: column;
-    padding: 15px 25px 0px 25px;
+    padding: 0px 30px;
+    
 }
 
 p{
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     color: hsl(228, 12%, 48%);
     margin: 10px 0px 10px 0px;
+    
+    
+    
 }
 h1{
     font-family: 'Fraunces', serif;
-    color: hsl(212, 21%, 14%);
-    font-size: 1.7em;
-    font-weight: 700;
+    font-style: normal;
+    line-height: 1em;
+    font-weight: 14px;
     
 }
 
 .title{
-    font-size: 10px;
-    font-weight: 500;
+    font-size: 12px;
+    margin: 2.3em 0em 1em 0em;
+    
 }
 
 .price{
