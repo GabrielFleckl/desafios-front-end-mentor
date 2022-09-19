@@ -117,6 +117,7 @@ button.cta img{
     }
     p.pro-cat, h2.pro-name, p.pro-des, .price{
         padding-bottom: 23px;
+        padding-top: 10px;
     }
 }
 
