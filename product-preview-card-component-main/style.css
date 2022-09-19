@@ -44,7 +44,7 @@ body{
     justify-content: space-between;
 }
 
-h6.pro-cat{
+p.pro-cat{
     text-transform: uppercase;
     letter-spacing: 3px;
     font-size: 13px;
@@ -52,7 +52,7 @@ h6.pro-cat{
     font-weight: 500;
 }
 
-h2.pro-name{
+h1.pro-name{
     font-family: 'Fraunces', serif;
     font-size: 34px;
     line-height: 1em;
