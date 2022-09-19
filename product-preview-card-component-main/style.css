@@ -115,7 +115,7 @@ button.cta img{
     .card-content{
         display: block;
     }
-    h6.pro-cat, h2.pro-name, p.pro-des, .price{
+    p.pro-cat, h2.pro-name, p.pro-des, .price{
         padding-bottom: 23px;
     }
 }
@@ -131,7 +131,7 @@ button.cta img{
     .card-content{
         padding: 24px;
     }
-    h6.pro-cat, h2.pro-name, p.pro-des, .price{
+    p.pro-cat, h2.pro-name, p.pro-des, .price{
         padding-bottom: 16px;
     }
     h2.pro-name{
