@@ -22,7 +22,7 @@ Aqui você pode conferir os desafios em suas respectivas versões. <br>
 [👉 Link para visualizar o desafio 01.](https://gabrielfleckl.github.io/Front-End-Mentor-Challenges/QR-code/)
 
 <br>
-  <img alt="layout-web" src="desafios/desktop-01.png" width="100%"> 
+  <img alt="layout-web" src="desafios-img/desktop-01.png" width="100%"> 
 
 <br>
 
@@ -43,7 +43,7 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 [👉 Link para visualizar o desafio 02.](https://gabrielfleckl.github.io/Front-End-Mentor-Challenges/product-preview-card-component-main/)
 
 <br>
-  <img alt="layout-web" src="desafios/desktop-02.png" width="100%"> 
+  <img alt="layout-web" src="desafios-img/desktop-02.png" width="100%"> 
 
 <br>
 
