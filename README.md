@@ -17,8 +17,11 @@
 Aqui você pode conferir os desafios em suas respectivas versões categorizados pela dificuldade. 
 ## Dificuldades
 <br>
-<img align="baseline"> <img src="https://img.shields.io/badge/Dificuldade%20Em%20Andamento:-FE7A16?style=for-the-badge&logo=pinboard&logoColor=white" alt="Em Andamento" />
-<img align="baseline"> <img src="https://img.shields.io/badge/Novato-blue?style=for-the-badge&logoColor=white" alt="Novato"/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dificuldade%20Em%20Andamento:-FE7A16?style=for-the-badge&logo=pinboard&logoColor=white" >
+  <img src="https://img.shields.io/badge/Novato-blue?style=for-the-badge&logoColor=white" >
+</p>
 
 <br>
 
