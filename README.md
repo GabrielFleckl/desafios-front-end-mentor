@@ -14,7 +14,9 @@
 
 ## 💣 Desafios
 
-Aqui você pode conferir os desafios em suas respectivas versões categorizados pela dificuldade. <br>
+Aqui você pode conferir os desafios em suas respectivas versões categorizados pela dificuldade. 
+
+<br>
 
 ## Dificuldades
 <br>
