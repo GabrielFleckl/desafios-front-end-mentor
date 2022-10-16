@@ -12,6 +12,8 @@
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+<a href ="https://www.frontendmentor.io/profile/GabrielFleckl" alt="Gmail"><img src="https://img.shields.io/badge/Meu%20perfil%20front%20end%20mentor-blue?style=for-the-badge" target="_blank"></a>
+
 ## 💣 Desafios
 
 Aqui você pode conferir os desafios em suas respectivas versões categorizados pela dificuldade. 
