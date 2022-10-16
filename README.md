@@ -60,7 +60,6 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 ![image](https://img.shields.io/badge/HTML-orangered?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![image](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)<br>
 
-<br>
 
 ---
 
@@ -83,17 +82,42 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 
 
 ---
+
+### Desafio 03 - Card NFT.
+<br>
+
+[👉 Link para visualizar o desafio 03.](https://gabrielfleckl.github.io/desafios-front-end-mentor/nft-preview-card-component-main/)
+
+<br>
+  <img alt="layout-web" src="desafios-img/desktop-03.png" width="100%"> 
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse desafio foi desenvolvido com as seguintes tecnologias:
+
+![image](https://img.shields.io/badge/HTML-orangered?style=for-the-badge&logo=html5&logoColor=white)<br>
+![image](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)<br>
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+
+---
+
 <br>
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+<br>
 
 ## 🌐 Contato
 
 <a href="https://www.linkedin.com/in/dev-gabriel-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:gabrielleiteadm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<br>
 
 ---
 
