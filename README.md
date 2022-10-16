@@ -37,7 +37,7 @@ Aqui você pode conferir os desafios em suas respectivas versões categorizados 
   <a href="#-guru">😡 Guru</a>
 </p>
 
-
+<br>
 
 ## 👶 Novato
 
