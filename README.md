@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#-layout">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contato">Contato</a>
 </p>
@@ -14,7 +14,29 @@
 
 ## 💣 Desafios
 
-Aqui você pode conferir os desafios em suas respectivas versões. <br>
+Aqui você pode conferir os desafios em suas respectivas versões categorizados pela dificuldade. <br>
+
+## Dificuldades
+
+<br>
+
+<p align="left">
+  <a href="#-novato">Novato</a> <br>
+
+  <a href="#-junior">Junior</a> <br>
+
+  <a href="#-intermediário">Intermediário</a> <br>
+
+  <a href="#-avançado">Avançado</a> <br>
+
+  <a href="#-guru">Guru</a>
+</p>
+
+<br>
+
+## Novato
+
+---
 
 ### Desafio 01 - Card com QR code.
 <br>
