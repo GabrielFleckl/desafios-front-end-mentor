@@ -21,15 +21,15 @@ Aqui você pode conferir os desafios em suas respectivas versões categorizados 
 <br>
 
 <p align="left">
-  <a href="#-novato"> 👶 Novato</a> <br>
+  <a href="#-novato">👶 Novato</a> <br>
 
-  <a href="#-junior">Junior</a> <br>
+  <a href="#-junior">😀 Junior</a> <br>
 
-  <a href="#-intermediário">Intermediário</a> <br>
+  <a href="#-intermediário">🙂 Intermediário</a> <br>
 
-  <a href="#-avançado">Avançado</a> <br>
+  <a href="#-avançado">😐 Avançado</a> <br>
 
-  <a href="#-guru">Guru</a>
+  <a href="#-guru">😡 Guru</a>
 </p>
 
 <br>
@@ -41,7 +41,7 @@ Aqui você pode conferir os desafios em suas respectivas versões categorizados 
 ### Desafio 01 - Card com QR code.
 <br>
 
-[👉 Link para visualizar o desafio 01.](https://gabrielfleckl.github.io/Front-End-Mentor-Challenges/QR-code/)
+[👉 Link para visualizar o desafio 01.](https://gabrielfleckl.github.io/desafios-front-end-mentor/QR-code/)
 
 <br>
   <img alt="layout-web" src="desafios-img/desktop-01.png" width="100%"> 
@@ -62,7 +62,7 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 ### Desafio 02 - Card de produto.
 <br>
 
-[👉 Link para visualizar o desafio 02.](https://gabrielfleckl.github.io/Front-End-Mentor-Challenges/product-preview-card-component-main/)
+[👉 Link para visualizar o desafio 02.](https://gabrielfleckl.github.io/desafios-front-end-mentor/product-preview-card-component-main/)
 
 <br>
   <img alt="layout-web" src="desafios-img/desktop-02.png" width="100%"> 
@@ -76,9 +76,10 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 ![image](https://img.shields.io/badge/HTML-orangered?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![image](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)<br>
 
-<br>
 
 ---
+<br>
+ <a href="#-desafios">Voltar para o Inicio ⬆️ </a>
 
 <br>
 
@@ -95,4 +96,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Gabriel Gonçalves 🖖
+Feito com ♥ by Gabriel Gonçalves 🖖 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#-desafios">Voltar para o Inicio ⬆️ </a>
+ 
