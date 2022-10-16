@@ -15,16 +15,11 @@
 ## 💣 Desafios
 
 Aqui você pode conferir os desafios em suas respectivas versões categorizados pela dificuldade. 
-
-<br>
-
 ## Dificuldades
 <br>
 <img align="baseline"> <img src="https://img.shields.io/badge/Dificuldade%20Em%20Andamento:-FE7A16?style=for-the-badge&logo=pinboard&logoColor=white" alt="Em Andamento" />
 <img align="baseline"> <img src="https://img.shields.io/badge/Novato-blue?style=for-the-badge&logoColor=white" alt="Novato"/>
-
 <br>
-
 <p align="left">
   <a href="#-novato">👶 Novato</a>   <br>
 
@@ -98,5 +93,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Gabriel Gonçalves 🖖 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#-desafios">Voltar para o Inicio ⬆️ </a>
+Feito com ♥ by Gabriel Gonçalves 🖖 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#--desafios-front-end-mentor">Voltar para o Inicio ⬆️ </a>
  
