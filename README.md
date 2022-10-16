@@ -34,7 +34,7 @@ Aqui você pode conferir os desafios em suas respectivas versões categorizados 
 
 <br>
 
-## Novato
+## 👶 Novato
 
 ---
 
