@@ -21,7 +21,7 @@ Aqui você pode conferir os desafios em suas respectivas versões categorizados 
 <br>
 
 <p align="left">
-  <a href="#-novato">Novato</a> <br>
+  <a href="#novato">Novato</a> <br>
 
   <a href="#-junior">Junior</a> <br>
 
