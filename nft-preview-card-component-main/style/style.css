@@ -30,31 +30,6 @@ body {
   margin-bottom: 20px;
 }
 
-.img-overlay {
-  display: flex;
-  position: absolute;
-  border-radius: 5px;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  top: 113px;
-  bottom: 113px;
-  left: 577px;
-  width: 242px;
-  height: 242px;
-  background-image: url(./images/icon-view.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-color: hsla(178deg, 100%, 50%, 0.5);
-  opacity: 0;
-  transition: cubic-bezier(0.01, 0.83, 0.4, 0.99) 0.3s;
-}
-.img-overlay:hover {
-  opacity: 1;
-  transition: cubic-bezier(0.01, 0.83, 0.4, 0.99) 0.5s;
-  cursor: pointer;
-}
-
 .name {
   color: hsl(0deg, 0%, 100%);
   font-size: 1.1em;
