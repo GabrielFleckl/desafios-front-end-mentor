@@ -17,8 +17,9 @@ body {
   display: flex;
   flex-direction: column;
   background-color: hsl(216deg, 50%, 16%);
-  max-width: 310px;
-  padding: 19px;
+  max-width: 329px;
+  max-height: 580px;
+  padding: 24px;
   border-radius: 10px;
 }
 
