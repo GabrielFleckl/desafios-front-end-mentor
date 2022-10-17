@@ -17,17 +17,43 @@ body {
   display: flex;
   flex-direction: column;
   background-color: hsl(216deg, 50%, 16%);
-  max-width: 280px;
+  max-width: 310px;
   padding: 19px;
   border-radius: 10px;
 }
 
-.img-card {
+.card__image_top {
+  position: relative;
+}
+
+.card__main-image {
   width: 100%;
   display: flex;
   margin: auto auto;
   border-radius: 5px;
   margin-bottom: 20px;
+}
+
+.card_image_overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 92.5%;
+  width: 100%;
+  background-color: hsla(178deg, 100%, 50%, 0.5);
+  display: none;
+  border-radius: 5px;
+}
+
+.card_image_overlay img {
+  position: absolute;
+  top: 43%;
+  left: 43%;
+}
+
+.card__image_top:hover .card_image_overlay {
+  cursor: pointer;
+  display: block;
 }
 
 .name {
