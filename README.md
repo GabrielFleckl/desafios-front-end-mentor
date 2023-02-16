@@ -109,7 +109,7 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 ### Desafio 04 - Order Component.
 <br>
 
-[👉 Link para visualizar o desafio 04.](https://gabrielfleckl.github.io/desafios-front-end-mentor/nft-preview-card-component-main/)
+[👉 Link para visualizar o desafio 04.](https://gabrielfleckl.github.io/desafios-front-end-mentor/order-summary-component-main/)
 
 <br>
   <img alt="layout-web" src="desafios-img/desktop-04.png" width="100%"> 
