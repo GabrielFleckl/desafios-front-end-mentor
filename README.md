@@ -65,7 +65,7 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-### Desafio 02 - Card de produto.
+### Desafio 02 - Card de Produto.
 <br>
 
 [👉 Link para visualizar o desafio 02.](https://gabrielfleckl.github.io/desafios-front-end-mentor/product-preview-card-component-main/)
@@ -106,7 +106,7 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-### Desafio 04 - Order Component.
+### Desafio 04 - Componente de Compra.
 <br>
 
 [👉 Link para visualizar o desafio 04.](https://gabrielfleckl.github.io/desafios-front-end-mentor/order-summary-component-main/)
