@@ -1,0 +1,125 @@
+@use 'variables'
+
+*
+  margin: 0
+  padding: 0
+  box-sizing: border-box
+
+body
+  background-image: url(../images/pattern-background-desktop.svg) 
+  background-size: 100%
+  background-repeat: no-repeat
+  font-family: 'Red Hat Display', sans-serif
+  font-weight: 500
+  display: flex
+  align-items: center
+  justify-content: center
+  background-color: variables.$pale-blue
+  
+
+.container
+  max-width: 350px
+  background-color: #fff
+  border-radius: 15px
+  margin-top: 9em
+  .illustration
+    width: 100%
+    border-top-left-radius: 15px
+    border-top-right-radius: 15px
+    margin-bottom: 16px 
+.main-content
+  display: flex
+  flex-direction: column
+  align-items: center
+  justify-content: center
+  text-align: center
+  .title
+    font-size: 1.4em
+    font-weight: 900
+    color: variables.$Dark-blue
+    margin-bottom: 16px
+  .text
+    color: variables.$Desaturated-blue
+    font-size: .8em
+    padding: 0px 40px 0px 40px 
+  .plan-container
+    width: 83%
+    display: flex
+    justify-content: space-between
+    background-color: variables.$very-pale-blue
+    padding: 16px
+    border-radius: 8px
+    margin: 16px 16px
+  .plan-wrapper
+    display: flex    
+    justify-content: center
+    align-items: center
+  .plan-play
+    width: 40px
+    margin-right: 10px 
+  .plan-cancel
+    display: flex
+    align-items: center
+    justify-content: center
+  .plan-link
+    color: variables.$bright-blue
+    font-weight: bold
+    font-size: .8em
+    transition: 0.3s
+    &:hover
+      text-decoration: none
+      color: #6156e0
+      transition: 0.3s
+  .plan-text 
+    .bold
+      color: variables.$Dark-blue
+      font-weight: 900
+      font-size: .9em
+  .plan-text
+    color: variables.$Desaturated-blue
+    font-size: .9em 
+  .btn-pay
+    font-family: 'Red Hat Display', sans-serif
+    width: 83%
+    padding: 13px
+    margin-bottom: 1.2em
+    border: none
+    border-radius: 10px 
+    color: #fff
+    background-color: variables.$bright-blue
+    font-weight: bold
+    box-shadow: 0px 12px 20px 0px #3728e054
+    cursor: pointer
+    transition: 0.3s
+    &:hover
+      background-color: #6156e0
+      transition: 0.3s
+  .cancel-btn
+    color: variables.$Desaturated-blue
+    font-size: .9em
+    margin-bottom: 37px
+    margin-top: 5px
+    font-weight: 900
+    cursor: pointer
+    transition: 0.3s
+    &:hover
+      color: variables.$Dark-blue
+      transition: 0.3s
+
+
+@media (max-width: 1300px)
+  
+  body
+    background-image: none
+      
+
+    
+
+    
+    
+
+
+
+  
+
+  
