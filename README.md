@@ -127,6 +127,27 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 
 ---
 
+### Desafio 05 - Card de Status.
+<br>
+
+[👉 Link para visualizar o desafio 04.](https://gabrielfleckl.github.io/desafios-front-end-mentor/order-summary-component-main/)
+
+<br>
+  <img alt="layout-web" src="desafios-img/desktop-05.png" width="100%"> 
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse desafio foi desenvolvido com as seguintes tecnologias:
+
+![image](https://img.shields.io/badge/HTML-orangered?style=for-the-badge&logo=html5&logoColor=white)<br>
+![image](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)<br>
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+
+---
+
 <br>
 
 ## 📝 Licença
