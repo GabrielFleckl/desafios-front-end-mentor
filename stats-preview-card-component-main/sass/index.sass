@@ -1,0 +1,121 @@
+// variables
+$background: hsl(233, 47%, 7%)
+$card-background:hsl(244, 38%, 16%)
+$overlay: hsl(277, 64%, 61%)
+$main-paragraph: hsla(0, 0%, 100%, 0.75)
+$stat-headings: hsla(0, 0%, 100%, 0.6)
+$inter: 'Inter', sans-serif
+$lexe: 'Lexend Deca', sans-serif
+
+
+*
+  margin: 0
+  padding: 0
+  box-sizing: border-box
+
+body
+  display: flex
+  align-items: center
+  justify-content: center
+  height: 100vh
+  background-color: $background
+  color: #fff
+  transition: .3s
+  
+
+.main-container
+  background-color: $card-background
+  width: 390px
+  height: 295px
+  padding: 50px 60px 0px 50px
+  border-top-left-radius: 5px
+  border-bottom-left-radius: 5px
+  h1
+    font-weight: 700
+    font-family: $inter
+    font-size: 1.5em
+    margin-bottom: 16px
+    span
+      color: $overlay
+  section
+    padding-right: 50px
+    margin-bottom: 16px
+    p
+      font-family: $inter
+      font-weight: 300
+      font-size: 10px
+      color: $main-paragraph
+      line-height: 17px
+
+.stats-container
+  display: flex
+  justify-content: space-between
+  gap: 2em
+  margin-top: 2.5em
+  font-family: $inter
+  font-weight: 600
+  font-size: 15px
+  padding-right: 30px
+  span
+    font-weight: 200
+    text-transform: uppercase
+    font-size: .5em
+    letter-spacing: .2em
+
+.img-picture
+  width: 350px
+  height: 295px
+  border-top-right-radius: 5px
+  border-bottom-right-radius: 5px
+  position: absolute
+
+.overlay
+  background-color: $overlay
+  width: 350px
+  height: 295px
+  mix-blend-mode: multiply
+  position: relative
+  border-top-right-radius: 5px
+  border-bottom-right-radius: 5px
+  
+@media (max-width: 762px)
+
+  body
+    display: flex
+    flex-direction: column-reverse
+    transition: .3s
+  .main-container
+    max-width: 260px
+    min-height: 440px
+    padding: 25px 15px 15px 15px
+    text-align: center
+    border-bottom-right-radius: 5px
+    border-top-left-radius: 0px
+    section
+      padding: 0px 30px 0px 30px
+
+  .img-picture
+    max-width: 260px
+    border-bottom-right-radius: 0px
+    border-top-left-radius: 5px
+    max-height:220px
+    
+  .overlay
+    max-width: 260px
+    border-bottom-right-radius: 0px
+    border-top-left-radius: 5px
+    max-height:220px
+
+  .stats-container
+    display: flex
+    flex-direction: column
+    padding: 0
+    p
+      display: flex
+      flex-direction: column
+      font-size: 1.3em
+      gap: .2em
+      
+  
+
+  

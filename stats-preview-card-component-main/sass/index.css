@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: hsl(233deg, 47%, 7%);
+  color: #fff;
+  transition: 0.3s;
+}
+
+.main-container {
+  background-color: hsl(244deg, 38%, 16%);
+  width: 390px;
+  height: 295px;
+  padding: 50px 60px 0px 50px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.main-container h1 {
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 16px;
+}
+.main-container h1 span {
+  color: hsl(277deg, 64%, 61%);
+}
+.main-container section {
+  padding-right: 50px;
+  margin-bottom: 16px;
+}
+.main-container section p {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 10px;
+  color: hsla(0deg, 0%, 100%, 0.75);
+  line-height: 17px;
+}
+
+.stats-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 2em;
+  margin-top: 2.5em;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  padding-right: 30px;
+}
+.stats-container span {
+  font-weight: 200;
+  text-transform: uppercase;
+  font-size: 0.5em;
+  letter-spacing: 0.2em;
+}
+
+.img-picture {
+  width: 350px;
+  height: 295px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  position: absolute;
+}
+
+.overlay {
+  background-color: hsl(277deg, 64%, 61%);
+  width: 350px;
+  height: 295px;
+  mix-blend-mode: multiply;
+  position: relative;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+@media (max-width: 762px) {
+  body {
+    display: flex;
+    flex-direction: column-reverse;
+    transition: 0.3s;
+  }
+  .main-container {
+    max-width: 260px;
+    min-height: 440px;
+    padding: 25px 15px 15px 15px;
+    text-align: center;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 0px;
+  }
+  .main-container section {
+    padding: 0px 30px 0px 30px;
+  }
+  .img-picture {
+    max-width: 260px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 5px;
+    max-height: 220px;
+  }
+  .overlay {
+    max-width: 260px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 5px;
+    max-height: 220px;
+  }
+  .stats-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+  .stats-container p {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3em;
+    gap: 0.2em;
+  }
+}/*# sourceMappingURL=index.css.map */
