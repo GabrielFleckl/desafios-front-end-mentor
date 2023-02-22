@@ -1,0 +1,199 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../images/bg-desktop.svg);
+  background-color: hsl(257deg, 40%, 49%);
+  background-repeat: no-repeat;
+  background-size: 90% 100vh;
+  background-attachment: fixed;
+  color: #fff;
+}
+
+.mockup-img {
+  width: 230px;
+  margin: 50px 0px 80px 213px;
+}
+
+.main-container {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.main-img {
+  width: 850px;
+}
+
+article {
+  max-width: 31%;
+  margin-top: 3em;
+}
+article h1 {
+  font-family: poppins, sans-serif;
+  font-size: 3em;
+}
+article p {
+  margin-top: 1.4em;
+  font-family: open sans, sans serif;
+  font-size: 1.3em;
+  line-height: 1.6em;
+}
+article button {
+  margin-top: 1.5em;
+  width: 230px;
+  height: 60px;
+  border-radius: 50px;
+  border: none;
+  box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.2745098039);
+  color: hsl(257deg, 40%, 49%);
+  font-family: poppins, sans-serif;
+  font-weight: 400;
+  cursor: pointer;
+  font-size: 1.1em;
+  transition: 0.3s;
+}
+article button:hover {
+  background-color: hsl(300deg, 69%, 71%);
+  transition: 0.3s;
+}
+
+footer {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 100px;
+  margin-bottom: 10px;
+}
+footer .facebook-logo {
+  fill: #fff;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  padding: 0.4em;
+}
+footer .facebook-logo:hover {
+  transition: 0.3s;
+  fill: hsl(300deg, 69%, 71%);
+  border: 1px solid hsl(300deg, 69%, 71%);
+}
+footer .ionicon {
+  padding: 0.2em;
+}
+
+@media (max-width: 1440px) {
+  body {
+    background-image: url(../images/bg-mobile.svg);
+    background-color: hsl(257deg, 40%, 49%);
+    background-repeat: no-repeat;
+    background-size: 90% 100vh;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 30px;
+  }
+  .mockup-img {
+    width: 230px;
+    margin: 30px 0px 50px 40px;
+  }
+  article {
+    max-width: 41%;
+  }
+  article h1 {
+    font-size: 2rem;
+  }
+  article p {
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  .main-img {
+    width: 90%;
+  }
+  .main-container {
+    gap: 20px;
+  }
+  footer {
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+  }
+}
+@media (max-width: 1270px) {
+  body {
+    background-image: url(../images/bg-mobile.svg);
+    background-color: hsl(257deg, 40%, 49%);
+    background-repeat: no-repeat;
+    background-size: 90% 100vh;
+    background-attachment: fixed;
+    color: #fff;
+  }
+  .mockup-img {
+    width: 230px;
+    margin: 50px 0px 80px 100px;
+  }
+  article {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    max-width: 41%;
+  }
+  article h1 {
+    font-size: 2rem;
+  }
+  article p {
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  .main-img {
+    width: 90%;
+  }
+  .main-container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+  }
+  footer {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+  }
+}
+@media (max-width: 1270px) and (max-width: 500px) {
+  .mockup-img {
+    width: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto 40px auto;
+  }
+  .main-container {
+    gap: 10px;
+  }
+  article {
+    margin-top: 10px;
+    max-width: 71%;
+  }
+  article h1 {
+    font-size: 1.5rem;
+  }
+  article p {
+    font-size: 1em;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+}/*# sourceMappingURL=style.css.map */
