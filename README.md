@@ -130,7 +130,7 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 ### Desafio 05 - Card de Status.
 <br>
 
-[👉 Link para visualizar o desafio 04.](https://gabrielfleckl.github.io/desafios-front-end-mentor/stats-preview-card-component-main/)
+[👉 Link para visualizar o desafio 05.](https://gabrielfleckl.github.io/desafios-front-end-mentor/stats-preview-card-component-main/)
 
 <br>
   <img alt="layout-web" src="desafios-img/desktop-05.png" width="100%"> 
@@ -151,7 +151,7 @@ Esse desafio foi desenvolvido com as seguintes tecnologias:
 ### Desafio 06 - Huddle - Landing Page.
 <br>
 
-[👉 Link para visualizar o desafio 04.](https://gabrielfleckl.github.io/desafios-front-end-mentor/stats-preview-card-component-main/)
+[👉 Link para visualizar o desafio 06.](https://gabrielfleckl.github.io/desafios-front-end-mentor/huddle-landing-page-with-single-introductory-section-master/)
 
 <br>
   <img alt="layout-web" src="desafios-img/desktop-06.png" width="100%"> 
