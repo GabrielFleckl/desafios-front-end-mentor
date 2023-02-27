@@ -6,7 +6,7 @@
 
 body {
   background-image: url(../images/bg-desktop.svg);
-  background-color: hsl(257deg, 40%, 49%);
+  background-color: hsl(257, 40%, 49%);
   background-repeat: no-repeat;
   background-size: 90% 100vh;
   background-attachment: fixed;
@@ -50,7 +50,7 @@ article button {
   border-radius: 50px;
   border: none;
   box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.2745098039);
-  color: hsl(257deg, 40%, 49%);
+  color: hsl(257, 40%, 49%);
   font-family: poppins, sans-serif;
   font-weight: 400;
   cursor: pointer;
@@ -58,7 +58,7 @@ article button {
   transition: 0.3s;
 }
 article button:hover {
-  background-color: hsl(300deg, 69%, 71%);
+  background-color: hsl(300, 69%, 71%);
   transition: 0.3s;
 }
 
@@ -78,8 +78,8 @@ footer .facebook-logo {
 }
 footer .facebook-logo:hover {
   transition: 0.3s;
-  fill: hsl(300deg, 69%, 71%);
-  border: 1px solid hsl(300deg, 69%, 71%);
+  fill: hsl(300, 69%, 71%);
+  border: 1px solid hsl(300, 69%, 71%);
 }
 footer .ionicon {
   padding: 0.2em;
@@ -88,7 +88,7 @@ footer .ionicon {
 @media (max-width: 1440px) {
   body {
     background-image: url(../images/bg-mobile.svg);
-    background-color: hsl(257deg, 40%, 49%);
+    background-color: hsl(257, 40%, 49%);
     background-repeat: no-repeat;
     background-size: 90% 100vh;
     background-attachment: fixed;
@@ -127,7 +127,7 @@ footer .ionicon {
 @media (max-width: 1270px) {
   body {
     background-image: url(../images/bg-mobile.svg);
-    background-color: hsl(257deg, 40%, 49%);
+    background-color: hsl(257, 40%, 49%);
     background-repeat: no-repeat;
     background-size: 90% 100vh;
     background-attachment: fixed;

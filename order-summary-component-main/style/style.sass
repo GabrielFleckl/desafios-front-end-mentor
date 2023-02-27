@@ -7,21 +7,21 @@
 
 body
   background-image: url(../images/pattern-background-desktop.svg) 
-  background-size: 100%
+  background-size: 100% 50%
   background-repeat: no-repeat
   font-family: 'Red Hat Display', sans-serif
   font-weight: 500
   display: flex
   align-items: center
   justify-content: center
+  height: 100vh
   background-color: variables.$pale-blue
   
-
 .container
   max-width: 350px
   background-color: #fff
   border-radius: 15px
-  margin-top: 9em
+
   .illustration
     width: 100%
     border-top-left-radius: 15px
@@ -107,7 +107,7 @@ body
       transition: 0.3s
 
 
-@media (min-width: 762px)
+@media (max-width: 762px)
   
   body
     background-image: none

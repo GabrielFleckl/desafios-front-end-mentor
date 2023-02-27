@@ -9,13 +9,13 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: hsl(233deg, 47%, 7%);
+  background-color: hsl(233, 47%, 7%);
   color: #fff;
   transition: 0.3s;
 }
 
 .main-container {
-  background-color: hsl(244deg, 38%, 16%);
+  background-color: hsl(244, 38%, 16%);
   width: 390px;
   height: 295px;
   padding: 50px 60px 0px 50px;
@@ -29,7 +29,7 @@ body {
   margin-bottom: 16px;
 }
 .main-container h1 span {
-  color: hsl(277deg, 64%, 61%);
+  color: hsl(277, 64%, 61%);
 }
 .main-container section {
   padding-right: 50px;
@@ -39,7 +39,7 @@ body {
   font-family: "Inter", sans-serif;
   font-weight: 300;
   font-size: 10px;
-  color: hsla(0deg, 0%, 100%, 0.75);
+  color: hsla(0, 0%, 100%, 0.75);
   line-height: 17px;
 }
 
@@ -69,7 +69,7 @@ body {
 }
 
 .overlay {
-  background-color: hsl(277deg, 64%, 61%);
+  background-color: hsl(277, 64%, 61%);
   width: 350px;
   height: 295px;
   mix-blend-mode: multiply;
