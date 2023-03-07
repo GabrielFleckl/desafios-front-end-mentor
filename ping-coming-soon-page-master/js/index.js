@@ -1,19 +1,10 @@
-const btnForm = document.querySelector('button')
-const pTextError = document.querySelector('.email-text')
-
-btnForm.addEventListener('click', showText)
-
-function showText() {
-  pTextError.innerHTML = 'Hello you'
-}
-
 function validarForm(event) {
   var emailInput = document.getElementById("email");
   var email = emailInput.value;
 
   if (!validarEmail(email)) {
     alert("Endereço de email inválido.");
-    event.preventDefault(); // Impede o envio do formulário
+    event.preventDefault()
   }
 }
 
@@ -22,3 +13,4 @@ function validarEmail(email) {
   return regex.test(email);
 }
 
+validarForm()
